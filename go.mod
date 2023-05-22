@@ -1,4 +1,4 @@
-module github.com/LittleB0xes/LDtkBridge
+module github.com/LittleB0xes/fluffy_anchovies
 
 go 1.20
 
